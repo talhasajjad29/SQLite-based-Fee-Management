@@ -1,3 +1,1 @@
-# SQ lite Based
-Mini project just enhance the feature of sqlite database
-I made this project, shows excellent understanding of sq-lite 
+A beginner-friendly Student Fee Management System built in Python using SQLite as the backend database. This project demonstrates how to design, manage, and interact with a relational database without requiring any external database server setup
